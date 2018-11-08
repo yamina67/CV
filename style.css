@@ -65,9 +65,19 @@ text-align: right;
 
 }
 
+
+
 a:link{
   color: White;
+  }
+
+a:visited {
+  color: black;
+
 }
+
+
+
 
 nav li{
 
