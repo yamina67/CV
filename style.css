@@ -2,11 +2,6 @@ body {
   margin : 0;
   padding: 0;
   background-color: #A3887C;
-
-
-
-
-
 }
 
 
@@ -162,7 +157,7 @@ div.boite1 {
       padding-left: 5%;
       padding-right: 5%;
       font-size: 30px;
-      text-align: justify ;
+      text-align: justify;
        }
 
        h4{
@@ -261,7 +256,11 @@ h2{
  #droite {
 
     width: 65%;
-
-
-
   }
+
+
+form{
+  width: 100%;
+  text-align: center;
+  padding-bottom: center;
+}
